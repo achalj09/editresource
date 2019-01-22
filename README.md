@@ -1,6 +1,7 @@
 # Laravel Nova Edit Custom Field.
-In Laravel Nova, when you use Custom Tool for creating/editing/updating Custom Page, you 
-might need "Edit Resource Button" with edit SVG icon as custom link field.
+In Laravel Nova, when you use Custom Tool for creating/editing/updating Custom Page,
+
+you might need "Edit Resource Button" with edit SVG icon as custom link field.
 
 
 Install using
