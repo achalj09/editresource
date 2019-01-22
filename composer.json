@@ -1,9 +1,17 @@
 {
     "name": "achalj09/editresource",
-    "description": "A Laravel Nova field.",
+    "description": "A laravel Nova Edit Custom Link",
     "keywords": [
         "laravel",
         "nova"
+    ],
+    "authors": [
+        {
+            "name": "Achal Jain",
+            "email": "achalj09@gmail.com",
+            "homepage": "https://github.com/achalj09/editresource",
+            "role": "Developer"
+        }
     ],
     "license": "MIT",
     "require": {
