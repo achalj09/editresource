@@ -3,6 +3,14 @@ Some time you uses, Custom Tool for creating and Updating Custom Page using Cust
 
 So if you want Edit resource button as an custom link Field.
 
+Instalation using
+
+```php
+composer require achalj09/editresource
+```
+
+Use in resources as follows
+
 ```php
 use Achalj09\Editresource\Editresource;
 
