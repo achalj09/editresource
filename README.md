@@ -4,7 +4,8 @@ In Laravel Nova, when you use Custom Tool for creating/editing/updating Custom P
 you might need "Edit Resource Button" with edit SVG icon as custom link field.
 
 
-Install using
+
+# Install using
 
 ```php
 composer require achalj09/editresource
