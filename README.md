@@ -11,7 +11,7 @@ you might need "Edit Resource Button" with edit SVG icon as custom link field.
 composer require achalj09/editresource
 ```
 
-Use in resources 
+# Use in resources 
 
 ```php
 use Achalj09\Editresource\Editresource;
